@@ -1,5 +1,5 @@
 //This Codility problem is called NumberSolitaire.
-//It is solved using Dynamic Programming.
+//It is solved using Dynamic Programming.//
 
 //I'll explain it step-by-step simply, then show the Python solution.
 index:  0   1   2   3   4   5
